@@ -12,7 +12,7 @@ body {
 
 .rectangle { 
    
-   background-color: lightgray;
+   background-color: #F3F3F3;
    max-width: 1110px;
    height: 100vh; 
    margin: auto;
